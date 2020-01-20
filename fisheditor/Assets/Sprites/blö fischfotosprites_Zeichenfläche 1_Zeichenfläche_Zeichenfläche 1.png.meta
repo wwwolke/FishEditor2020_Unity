@@ -1,7 +1,31 @@
 fileFormatVersion: 2
 guid: 099701a780c0d1245adea8806807ef8c
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+      1_0"
+    21300002: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+      1_1"
+    21300004: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+      1_2"
+    21300006: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+      1_3"
+    21300008: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+      1_4"
+    21300010: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+      1_5"
+    21300012: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+      1_6"
+    21300014: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+      1_7"
+    21300016: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+      1_8"
+    21300018: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+      1_9"
+    21300020: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+      1_10"
+    21300022: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+      1_11"
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -40,7 +64,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +93,316 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+        1_0"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1620
+        width: 790
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fafb41017006a54ab24dca5cf9c2c51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+        1_1"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1010
+        width: 1794
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2695b23c5f89dfc4eb0961005e21d8bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+        1_2"
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 821
+        width: 439
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee80dc15935584caf22a64a579a45d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+        1_3"
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 538
+        width: 376
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59267715f2a48ef4a94781892c7dda8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+        1_4"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 715
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899f45c2a82e27e45b726ee0f22582e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+        1_5"
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 632
+        width: 236
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97a8b41200a9044ba914bbf599dfb9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+        1_6"
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 684
+        width: 190
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d8ad376fc284b48b72ddb454d253a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+        1_7"
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 507
+        width: 150
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbef764aaac52404e8a949757e76d25b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+        1_8"
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 558
+        width: 142
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767c31d30d6fe6f4ebc38feee1bd90f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+        1_9"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 53
+        width: 289
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284946d725e158e45a3cca34465036ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+        1_10"
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 20
+        width: 1174
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f948f053178b9b645bc24488ad6b90d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "bl\xF6 fischfotosprites_Zeichenfl\xE4che 1_Zeichenfl\xE4che_Zeichenfl\xE4che
+        1_11"
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 378
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7a6161e4398634d976fca928b9db3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
