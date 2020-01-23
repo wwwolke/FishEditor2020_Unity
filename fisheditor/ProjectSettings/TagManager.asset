@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Schuppe
+  - Fish
+  - Hand
+  - Geschirr
   layers:
   - Default
   - TransparentFX
@@ -16,8 +19,8 @@ TagManager:
   - 
   - background
   - 
-  - 
-  - 'New Layer '
+  - Auf dem Tisch
+  - "dar\xFCber"
   - 
   - 
   - 
