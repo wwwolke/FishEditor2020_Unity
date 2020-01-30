@@ -8,6 +8,7 @@ TagManager:
   - Fish
   - Hand
   - Geschirr
+  - Border
   layers:
   - Default
   - TransparentFX
